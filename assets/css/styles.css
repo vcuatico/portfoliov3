@@ -1,0 +1,66 @@
+body {
+    background-image: url(../img/bg-portfolio.jpg);
+    font-family: 'Roboto Mono', monospace;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+img {
+    width: 200px;
+}
+
+.firstpage {
+    height: 100vh;
+}
+
+.fa-html5:hover {
+	color: #e34f26;
+}
+
+.fa-bold:hover {
+	color: #511378;
+}
+
+.fa-css3-alt:hover {
+	color: #037ef3;
+}
+
+.fa-js-square:hover {
+    color: yellow;
+}
+.fa-gitlab:hover {
+	color: #fca326;
+}
+
+.fa-github:hover {
+	color: #db3552;
+}
+
+.fa-laravel:hover {
+    color: pink;
+}
+
+.fa-node:hover {
+    color: orange;
+}
+
+.fa-database:hover {
+    color: green;
+}
+
+.fa-php:hover {
+    color: purple;
+}
+
+.jIcon {
+    height: 70%;
+    width: 50%;
+}
+
+/*
+.flipInY {
+  -vendor-animation-duration: 8s !important;
+  -vendor-animation-delay: 2s !important;
+  -vendor-animation-iteration-count: infinite;
+}
+*/
