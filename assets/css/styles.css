@@ -57,6 +57,11 @@ img {
     width: 50%;
 }
 
+.img-thumbnail {
+    height: 70%;
+    width: 1000%;
+}
+
 /*
 .flipInY {
   -vendor-animation-duration: 8s !important;
